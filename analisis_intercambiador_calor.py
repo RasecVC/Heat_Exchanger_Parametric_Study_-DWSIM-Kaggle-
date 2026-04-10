@@ -1,11 +1,3 @@
-# =============================================================================
-# PROYECTO FINAL — Python para Analista de Datos en la Industria Petrolera
-# Sistema de Analisis y Reporte de Datos
-# Dataset: Heat Exchanger Parametric Study (DWSIM / Kaggle)
-# Aplicacion: Monitoreo de intercambiador de calor en preheat train de crudo
-# Autor: [Tu Nombre]
-# =============================================================================
-
 import pandas as pd
 import numpy as np
 import matplotlib
